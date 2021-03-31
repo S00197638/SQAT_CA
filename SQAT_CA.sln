@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsurancePremiums", "InsurancePremiums\InsurancePremiums.csproj", "{E80B333D-78A2-4F8B-8AEB-44FF64B12A2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsurancePremiums.Tests", "InsurancePremiums.Tests\InsurancePremiums.Tests.csproj", "{024F1D0A-59E5-42EC-9428-E79D494951B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E80B333D-78A2-4F8B-8AEB-44FF64B12A2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E80B333D-78A2-4F8B-8AEB-44FF64B12A2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E80B333D-78A2-4F8B-8AEB-44FF64B12A2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E80B333D-78A2-4F8B-8AEB-44FF64B12A2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{024F1D0A-59E5-42EC-9428-E79D494951B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{024F1D0A-59E5-42EC-9428-E79D494951B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{024F1D0A-59E5-42EC-9428-E79D494951B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{024F1D0A-59E5-42EC-9428-E79D494951B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F83B79BA-12A2-441B-89F1-1A6B53C8A41D}
+	EndGlobalSection
+EndGlobal
